@@ -1,0 +1,133 @@
+*	{
+	
+	font-family: Century gothic, Arial, Serif;
+	color: white;
+	background: url("../MEDIA/bg.jpeg") repeat-y;
+	background-attachment: fixed;
+	padding-left: 10px;
+	
+}
+
+h1	{
+	
+	font-size: 250%;
+
+}	
+
+table	{
+	
+	border-collapse: collapsed;
+	padding-bottom:20px;
+
+}
+
+.td	{
+	
+	border: 3px solid white;
+	font-size: 200%;
+	text-align: center;
+	padding-right:30px;
+	padding-top:10px;
+	padding-bottom:10px;
+
+}
+
+hr	{
+	height: 2px;
+	border: none;
+
+}
+
+ul	{
+
+	padding-left: 100px;
+
+}
+
+a:link	{
+	
+	font-family: Verdana;
+	text-decoration:none;
+}
+
+h2	{
+	
+	font-size: 250%;
+	
+}
+
+.text	{
+	
+	font-size: 18px;
+	padding-right:40px;
+	text-align: justify;
+	font-weight: bold;
+
+}
+
+.colonne {
+
+	float: left;
+	width: 550px;
+	margin-right: 50px;
+	text-align: center;
+	
+}
+
+.staff	{
+
+	width: 300px;
+	height: 300px;
+	
+}
+
+h3	{
+	
+	font-size: 250%;
+	
+}
+
+.text-home	{
+	
+	font-size: 30px;
+	padding-right:40px;
+	text-align: justify;
+	
+}
+
+a:hover {
+	
+	color: grey;
+	font-style: bold;
+	
+}
+
+.centrage	{
+	
+	text-align: center;
+	
+}
+
+.img-centrage	{
+	
+	text-align: center;
+	
+}
+
+.logo	{
+	
+	padding-top: 1px;
+	
+}
+
+.texte-logo	{
+	
+	margin-top: 20px;
+	
+}
+
+.centration	{
+	
+	margin: auto;
+	
+}
